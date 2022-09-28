@@ -5,8 +5,8 @@ const Intern = require('./lib/Intern.js');
 
 const employee = new Employee('John', 1, 'noemail@noemail.ccom');
 const engineer = new Engineer('Mike', 2, 'nofake@.noemail.com', 'novicehub')
-const manager = new Manager('Robert', 2, 'nofake@.noemail.com', '25B')
-const intern = new Intern('Rose', 3, 'newintern@email.com', 'communitycollege@nocollege')
+const manager = new Manager('Robert', 3, 'nofake@.noemail.com', '25B')
+const intern = new Intern('Rose', 4, 'newintern@email.com', 'communitycollege@nocollege')
 
 //testing Employee
 employee.getName();
