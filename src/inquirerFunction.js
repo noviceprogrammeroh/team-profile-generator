@@ -25,7 +25,7 @@ function init() {
           validate: nameEntered => {
            if(nameEntered === "") {
             console.log("");
-            console.log("\n  Name field cannot be empty!! Try again")
+            console.log("\n  Name field cannot be empty!! Please Try again")
             console.log("");
               return false;
           }else{
@@ -41,12 +41,12 @@ function init() {
         },
         {
           type: 'input',
-          message: "Enter team member's id",
+          message: "Please enter team member's id",
           name: "id",
         },
         {
           type: 'input',
-          message: "Enter team member's email address",
+          message: "Please enter team member's email address",
           name: "email",
         },
       ])
@@ -63,7 +63,7 @@ function init() {
           .prompt([
             {
               type: 'input',
-              message: `Enter team member's ${roleInfo}`,
+              message: `Please enter team member's ${roleInfo}`,
               name: "roleInfo",
             },
             {

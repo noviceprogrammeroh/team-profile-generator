@@ -1,4 +1,4 @@
-# team-profile-generator
+# Team-profile-generator
 This application displays team's information
 
 
@@ -14,9 +14,10 @@ This application displays team's information
 
 ## Sreenshots of the web page ##
 
-![This is an image](./images/mainscreenshot.jpg)
-![This is an image](./images/secondscreeenshot.jpg)
-![This is an image](./images/screenshotshowall.jpg)
+![This is an image](./images/employees_screenshot.JPG)
+![This is an image](./images/yesornomenu.JPG)
+![This is an image](./images/cards_created.JPG)
+![This is an image](./images/validation.JPG)
 
 
 
