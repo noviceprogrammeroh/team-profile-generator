@@ -26,3 +26,8 @@ This application displays team's information
 
 - GitHub Repository
 (https://github.com/noviceprogrammeroh/team-profile-generator)
+
+## Video ##
+
+https://user-images.githubusercontent.com/66175531/193729921-f05a2198-fe5e-4a54-a37f-7fdc672c756f.mp4
+
